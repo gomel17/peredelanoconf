@@ -1,46 +1,64 @@
-# Открыта регистрация на **Peredelanoconf** в Бельгии 30 сентября + препати 29-го!
+### Внимание! Смена дыты и места!
 
-> Найти подходящее место в Нидерландах всё также тяжело, но оказалось, что в Бельгии с этим полегче. Чем не повод превратиться из Peredelanoconf Нидерланды в Peredelanoconf Бенилюкс?:)
+Регистрации и оплату можно перенести или вернуть деньги (обращайтесь к @frommaxim)
+
+# Открыта регистрация на **Peredelanoconf** в Нидерландах 11.11.2023!
+
+> Найти подходящее место в Нидерландах быол тяжело и, казалось, что в Бельгии с этим полегче, но выбранный нами дом перебронировали:(
 >
-> Особого выбора дат, однако, не было. Поэтому такой short notice.
->
-> Место будет арендовано на два дня, а значит можно будет приехать в пятницу - посмотреть Антверпен, переночевать и в субботу поучаствовать в конфе, потом ещё раз переночевать и в восресенье уехать отдохнувшими:)
->
-> Места должно хватить всем! На ночь спокойно сможет разместититься более 35 человек
+> Но всё не тах уж плохо! У нас получилось забронировать легендарное место в котором прошла первая конфа! Да, и дата красивая:)
 
 ### Классический формат, большой дом с территорией, индустриальные и развлекательные доклады, нетворкинг, активности и упор на сообщество.
 
-Больше информации о формате можно найти [здесь](/./confs/standard.md)
+* Больше информации о формате можно найти [здесь](/./confs/standard.md)
+* [Описание и программа](https://www.notion.so/peredelanoconf/28-05-2023-3eed17eb7c034df98b771262a3ce5858?pvs=4) прошлого ивента
+* [Видео](https://youtu.be/dL0NXnH9iAA?si=wXS7dIPhEy3f_G63) о конференции в блоге Мишы Ларченко
 
-### Что же за место?
+Отзывы о первой конфе:
 
-Это небольшой замок в 20 минутах от центра Антверпена под названием **Kasteel Boterlaerhof**
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/d8d162dc-8744-4458-a907-1ca8fd473d52) | ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/028a7fb3-0a39-4a7e-bba3-4a9544a46d95) |
+| :--- | :--- |
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/e33a824a-bd30-4e1b-bac1-599179002dcb) | ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/5e68aac5-9b1f-4a67-a045-e4ce462edf73) |
 
-![image](https://kasteelboterlaerhof.be/images/home_random/DSC_9122.jpg)
+<details>
+<summary>Фото с предыдущей конфы:</summary>
+
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/f725c592-2e43-4b98-aa0b-f3c63398c4d0)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/e6e00507-53a5-4eb0-81ec-161a8729b21b)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/d88865f7-9fd1-42cc-a89e-8bd1f2faa611)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/9da84bcf-b4b4-49c2-89b2-f89e0ddcf4f2)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/d44d19ee-1a20-4f1b-bfc4-a015a0d8af3b)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/33775b97-d5fd-4b15-a659-dfc79acd086b)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/f15f9952-8f8a-4739-97ec-9e22cfddfd2f)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/c8e6a748-8343-42b6-96b7-79c232394851)
+
+</details>
+
+## Место
+
+Очень красивая вилла в 25 минутах от Амстердама
+
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/df6af226-2af5-4aea-a2b7-e8d3b4f6df48)
+
 <details>
 <summary>Ещё фото:</summary>
 
-![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/914e2246-43e9-43c0-a140-fb850d4331c4)
-![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/07dbc7a9-7bbc-401a-8b6e-a4173cba6afc)
-![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/983d961b-ae8e-4cc8-a64a-c5aa37052fe5)  
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/e66fd5f6-afc9-4187-9d19-cb567c414af3)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/ac69cd9d-2ae2-4bad-aca9-ee759efce4b7)
+![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/e8a35bc9-a1dd-4383-b248-c36ba8c4bbda)
+
 </details>
 
-### Спикеры:
-| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/42eff575-346e-4d74-8686-81db0e08cc0e)  | 1. [Аlех Рshe](https://taplink.cc/alex_pshe_en), QA Lead, РМ и разработчица в JetBrains, которая качественно делает качественные продукты на работе и вне её. Мечтает сделать социально значимый успешный стартап, строит личный бренд и делится знаниями с сообществом. </br> Alex расскажет о том, как у неё все это получается |
+**Точное расположение:**
+https://goo.gl/maps/JfEJuHHSQeQWe5Rx8
+
+## Спикеры:
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/98d2947c-23db-4fe1-b1ec-b9bc21fb5f67) | 1. [Михаил Петров (Fes 0xFF)](https://x.com/usehex?s=20), Full-stack/SRE разработчик в Booking.com, популярный автор в Твиттере, переехал в Нидерланды до того, как это стало мейнстримом. Михайл еще думает над темой выступления, но точно будет интересно!|
+| :--- | :--- |
+| ![image](https://github.com/philippranzhin/peredelanoconf/assets/94654788/42eff575-346e-4d74-8686-81db0e08cc0e)  | **2. [Александра Пшеборовская (Аlех Рshe)](https://taplink.cc/alex_pshe_en), QA Lead, РМ и разработчица в JetBrains, которая качественно делает качественные продукты на работе и вне её. Мечтает сделать социально значимый успешный стартап, строит личный бренд и делится знаниями с сообществом. </br> Alex расскажет о том, как у неё все это получается** |
 | :--- | :--- |
 
-
-### Точное расположение:
-https://goo.gl/maps/JdQWXAvjHixfs6i7A
-
-### Далеко ли это?
-Вовсе нет! Расстояние от основых городов до Антверпена:
-* **Амстердам** 1ч:19м на поезде / 2ч:25м на автобусе
-* **Гаага** 1ч:06м на поезде / 1ч:25м на автобусе
-* **Роттердам** 0ч:32м или 1ч:01м на поезде / 1ч:45м на автобусе
-* **Эйндховен** 1ч:25м на поезде / 1ч:40м на автобусе
-
-### Стоимость
+## Стоимость
 
 Цена участия — €140
 
@@ -50,7 +68,7 @@ https://goo.gl/maps/JdQWXAvjHixfs6i7A
 
 Правила применения скидок [здесь](/./guides/discount.md)
 
-### Регистрация
+## Регистрация
 
 * **Регистрируйтесь** в [форме](https://docs.google.com/forms/d/1Uz4yZKkf5jsqrcwwgXKMZkNYE-5e_n5l77qqLvSChnE)
 * **Оплачивайте** [участие](/./guides/how-to-pay.md)
